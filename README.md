@@ -28,7 +28,7 @@ This project fine-tunes the **Facebook BART** model (an extension of BERT) on a 
 - **Accuracy:** ~97%
 - **Model File:** `.pt` format (excluded due to size — download link below)
 
-📥 **[Download Trained Model from Google Drive]**  *(https://drive.google.com/file/d/1cwnGd2f0TKdJc52ZrrEnwMrz5MNThZnr/view?usp=drive_link)*
+📥 **[Download Trained Model from Google Drive](https://drive.google.com/file/d/1cwnGd2f0TKdJc52ZrrEnwMrz5MNThZnr/view?usp=drive_link)**  
 
 ---
 
